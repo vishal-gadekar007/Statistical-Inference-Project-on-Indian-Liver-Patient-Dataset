@@ -48,3 +48,40 @@ experts)
 
 Preprocessing:
 o Handling missing values (e.g., ag_ratio).
+
+Result and Conclusion:
+ Total Bilirubin (TB) is a key differentiator between liver and
+non-liver patients.
+ Correlation analysis shows TB and DB are strongly related,
+hinting at biological linkage.
+ Most tests revealed statistically significant patterns
+between liver-related measures and disease status.
+
+Chi-square:
+o "Males have a higher prevalence of liver disease”.
+ t-test:
+o "Total bilirubin is significantly higher in patients”.
+ F-test:
+
+o
+“No significant difference in variance between liver
+and non-liver groups”.
+
+ Z-test:
+
+o
+“Significant difference in means between liver and
+non-liver groups”.
+ Correlation Analysis:
+
+o
+“Some features strongly correlated”.
+
+References
+ Dataset source:-
+
+https://www.kaggle.com/datasets/jeevannagaraj/indian-
+liver-patient-dataset
+
+ Statistical textbooks( Fundamental of Mathematical
+Statistics).
